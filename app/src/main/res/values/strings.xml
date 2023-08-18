@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beležnica</string>
+    <string name="notes">Moje beležke</string>
+    <string name="search">Išči...</string>
+    <string name="notes_title">Naslov</string>
+    <string name="notes_sub_title">Podnaslov</string>
+    <string name="notes_desc">Vsebina</string>
+    <string name="web_url">URL povezava</string>
+    <string name="ok">Shrani</string>
+    <string name="cancel">Prekliči</string>
+    <string name="storage_permission_text">Aplikacija potrebuje dostop do podatkov.</string>
+</resources>
