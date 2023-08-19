@@ -73,7 +73,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:fontFamily="@font/manrope_regular"
-                android:textColor="@color/ColorGray"/>
+                android:textColor="@color/ColorWhiteGray"/>
 
             <TextView
                 android:id="@+id/tvDateTime"
@@ -88,7 +88,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:fontFamily="@font/manrope_regular"
-                android:textColor="@color/ColorGray"/>
+                android:textColor="@color/ColorWhiteGray"/>
 
         </LinearLayout>
     </androidx.cardview.widget.CardView>
